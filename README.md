@@ -9,5 +9,7 @@
 * Beginning and ending Cutscenes
 * Built for 3 different VR headsets/Platforms
 * Built in 3D
-* A Main Menu
-* A Settings Menu
+* Menus:
+1. Main
+2. Settings
+3. Pause
